@@ -32,6 +32,7 @@ export default function Sidebar(props) {
 
         <button>new folder</button>
         <button>shortcuts</button>
+        <button>log out</button>
       </div>
       {noteElements}
     </section>
